@@ -13,6 +13,7 @@ The frontend is responsible for displaying the map, train locations, and statist
 - **React.js**: The website is built using React. I chose React because I am currently taking a course that covers creating web applications using React.
 - **React-Leaflet** and **OpenStreetMap**: The map component is created using React-Leaflet, a React wrapper for Leaflet.js.
 - **CSS**: A separate CSS file is used for styling the website (e.g., layout, colors, fonts).
+- **DeepSeek**: AI tool that i used.
 
 ### **Backend**
 There is no traditional backend. Instead, the `API.jsx` file fetches data directly from the DigiTraffic API.
